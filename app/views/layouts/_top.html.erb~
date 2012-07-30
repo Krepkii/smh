@@ -1,0 +1,22 @@
+<div class="table_div" width="100%" height="40px">
+<div class="logo_div" wigth="100%">
+    <%= image_tag("logo.png", :alt => "SiteMyHome - социальная операционная система в интернете, социальная сеть нового поколения", :class => "logo") %>
+    </div>
+    <div align="center" style="color: #FFFFFF;"  >
+    <center>Пишемся потихоньку :) (Статическая заглушка новостей от админов)</center>
+    </div>
+    <div style="color: #FFFFFF; position: absolute;  text-align: right; font-size: 14px; right: 10px; top: 6px;" >
+   
+
+   <%= javascript_include_tag 'time_home' %> 
+
+    
+    <p id="txt"> </p>
+    <%= javascript_include_tag 'top_button' %>
+
+    <p id="back-top" style="right:-40;">  
+<a href="#top" title="Перейти наверх страницы"><span></span><em>наверх</em></a>  
+</p>
+</div>
+    </div>
+  </div>

@@ -11,7 +11,7 @@ development:
   reconnect: false
   database: smh_development
   pool: 5
-  username: smh
+  username: 
   password: 010197
   socket: /var/run/mysqld/mysqld.sock
 
@@ -24,7 +24,7 @@ test:
   reconnect: false
   database: smh_test
   pool: 5
-  username: smh
+  username: 
   password: 010197
   socket: /var/run/mysqld/mysqld.sock
 
@@ -34,6 +34,6 @@ production:
   reconnect: false
   database: smh_production
   pool: 5
-  username: smh
+  username: 
   password: 010197
   socket: /var/run/mysqld/mysqld.sock

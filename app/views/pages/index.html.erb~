@@ -1,0 +1,3 @@
+<%= render 'layouts/top' %>
+<%= render 'layouts/general' %><br><br><br><br>
+<div style='vertical-align: bottom; no-scrolling;'><%= render 'layouts/footer' %></div>
