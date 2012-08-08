@@ -13,6 +13,7 @@
 	width:100%;
 	height:auto;
 	overflow: hidden;
+	font-style:italic;
 	font-size:16px;
 }
 .nivoSlider img {

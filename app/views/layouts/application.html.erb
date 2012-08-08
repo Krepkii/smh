@@ -23,6 +23,6 @@
 <body class = "body" onload="startTime()">
 
 <%= yield %>
-
+<%= debug(params) if Rails.env.development? %>
 </body>
 </html>

@@ -1,4 +1,8 @@
 Smh::Application.routes.draw do
+  resources :users
+  
+  match '/signup',  :to => 'users#new'
+
   get "pages/index"
 
   # The priority is based upon order of creation:

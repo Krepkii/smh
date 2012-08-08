@@ -16,7 +16,7 @@ padding-bottom:0;
 padding-left:0;
 padding-right:0;
   margin: 0;
-  height: 50px;
+  height: 45px;
 }
 
 .table_div{
@@ -26,9 +26,21 @@ padding-bottom:0;
 padding-left:0;
 padding-right:0;
   margin: 0;
-    height: 35px;
+    height: 29px;
     width: 100%;
-     background: url(../images/home_page/top.jpg);
+     background: url(../images/home_page/top.png);
+}
+
+.shadow{
+ border: 0;
+padding-top:0;
+padding-bottom:0;
+padding-left:0;
+padding-right:0;
+  margin: 0;
+  width: 100%;
+  height: 5px;
+  background: url(../images/home_page/shadow.png);
 }
 
 .logo_div{
@@ -236,7 +248,6 @@ border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:7px; -khtml-b
 
      .slider-wrapper { 
 	width: 100%; 
-	margin: 20px auto;
 }
 
 .theme-default #slider {

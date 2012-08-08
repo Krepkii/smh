@@ -16,7 +16,7 @@ padding-bottom:0;
 padding-left:0;
 padding-right:0;
   margin: 0;
-  height: 50px;
+  height: 45px;
 }
 
 .table_div{
@@ -26,10 +26,11 @@ padding-bottom:0;
 padding-left:0;
 padding-right:0;
   margin: 0;
-    height: 35px;
+    height: 29px;
     width: 100%;
-     background: url(../images/home_page/top.jpg);
+     background: url(../images/home_page/top.png);
 }
+
 
 .logo_div{
    position: absolute;
